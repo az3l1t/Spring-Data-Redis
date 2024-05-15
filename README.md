@@ -35,3 +35,6 @@ Ctrl+0, Enter, Ctrl+X -> сохранить и выйти
     <artifactId>jedis</artifactId>
     <version>5.1.2</version>
 </dependency>
+
+![image](https://github.com/az3l1t/Spring-Data-Redis/assets/126178814/acf759f3-b389-4d33-a6f9-83b1c70a8bca)
+
